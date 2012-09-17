@@ -1,6 +1,7 @@
-First line.
+Modified first line.
 
 Second line.
 
 Third line.
 
+Added fourth line.
